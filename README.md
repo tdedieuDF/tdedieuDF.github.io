@@ -1,3 +1,5 @@
+{% include toc.html html=https://tdedieudf.github.io/ %}
+
 # tdedieuDF.github.io
 
 ## alias
