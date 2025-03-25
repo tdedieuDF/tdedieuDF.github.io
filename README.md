@@ -1,4 +1,4 @@
-{% include toc.html html=https://tdedieudf.github.io/ %}
+{% include toc.html html=index.html %}
 
 # tdedieuDF.github.io
 
