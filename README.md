@@ -2,8 +2,8 @@
 
 ## alias
 
-http://tdedieuDF.github.io/alias
+[alias](https://tdedieuDF.github.io/alias)
 
 ## actions
 
-http://tdedieuDF.github.io/actions
+[actions](https://tdedieuDF.github.io/actions)
