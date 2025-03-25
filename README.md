@@ -1,3 +1,5 @@
+{% include toc.html html=content %}
+
 # tdedieuDF.github.io
 
 ## alias
